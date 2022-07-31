@@ -26,3 +26,4 @@ rules & configuration of the community.
 ### Contents
 
 - [Code of Conduct](docs/code-of-conduct.md)
+- [Discord](discord/config.yml)

@@ -1,0 +1,46 @@
+channels:
+  - Secrets/committee
+  - Secrets/moderators
+  - Secrets/sponsors
+  - Secrets/community-heroes
+  - Text Channels/general
+  - Text Channels/promo
+  - Text Channels/worklog
+  - Text Channels/rage-room
+  - Text Channels/random
+  - Development/getting-started
+  - Development/development
+  - Development/game
+  - Development/web
+  - Development/mobile
+  - jobs/job-advice
+  - jobs/job-adverts
+  - jobs/job-discuss
+  - topics/current-affairs
+  - topics/pets
+  - topics/food
+  - topics/coffee
+  - topics/battlestations
+  - topics/sofa-studies
+  - topics/music
+  - topics/gaming
+  - topics/tech-news
+  - topics/blockchain
+  - topics/fitness
+  - topics/art
+  - topics/sports
+  - nordevcon/nordevcon
+  - nordevcon/track-1
+  - nordevcon/track-2
+  - nordevcon/track-3
+  - nordevcon/staff
+  - nordevcon/pioneering
+  - 🔊 Voice Channels/voice-chat-text
+  - 🔊 Voice Channels/watercooler
+  - 🔊 Voice Channels/committee-voice
+  - 🔊 Voice Channels/development
+  - 🔊 Voice Channels/development-two
+  - 🔊 Voice Channels/gaming
+  - 🔊 Voice Channels/gaming-two
+  - 🔊 Voice Channels/events
+  - archive/sevices
