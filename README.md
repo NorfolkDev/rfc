@@ -22,3 +22,7 @@ The majority of discussion, polls and RFCs regarding our community
 occur on our [Discord](https://nor.dev/discord), this conversation is easily
 lost or forgotten. This repository will act as a source of truth for processes,
 rules & configuration of the community.
+
+### Contents
+
+- [Code of Conduct](docs/code-of-conduct.md)
