@@ -27,3 +27,9 @@ rules & configuration of the community.
 
 - [Code of Conduct](docs/code-of-conduct.md)
 - [Discord](discord/config.yml)
+
+## Links
+
+- [Our commitment to decentralising the community](https://norfolkdevelopers.com/posts/2021-02-15-decentralise-all-the-things)
+- [norfolkdevelopers.com on GitHub](https://github.com/NorfolkDev/norfolkdevelopers-website)
+- [nordevcon.com on GitHub](https://github.com/NorfolkDev/nordevcon-website)
