@@ -1,4 +1,6 @@
 channels:
+  - meta/announcements
+  - meta/server-help
   - Secrets/committee
   - Secrets/moderators
   - Secrets/sponsors
@@ -33,8 +35,8 @@ channels:
   - nordevcon/track-1
   - nordevcon/track-2
   - nordevcon/track-3
-  - nordevcon/staff
   - nordevcon/pioneering
+  - nordevcon/staff
   - 🔊 Voice Channels/voice-chat-text
   - 🔊 Voice Channels/watercooler
   - 🔊 Voice Channels/committee-voice
