@@ -1,36 +1,39 @@
 channels:
-  - meta/announcements
-  - meta/server-help
+  - information/rules-and-info
+  - information/roles
+  - announcements/server
+  - announcements/social
+  - announcements/promo
   - Secrets/committee
   - Secrets/moderators
   - Secrets/sponsors
   - Secrets/community-heroes
-  - Text Channels/general
-  - Text Channels/promo
-  - Text Channels/worklog
-  - Text Channels/rage-room
-  - Text Channels/random
   - Development/getting-started
-  - Development/development
-  - Development/game
-  - Development/web
+  - Development/general
+  - Development/back-end
+  - Development/front-end
   - Development/mobile
   - jobs/job-advice
   - jobs/job-adverts
   - jobs/job-discuss
-  - topics/current-affairs
-  - topics/pets
-  - topics/food
-  - topics/coffee
-  - topics/battlestations
-  - topics/sofa-studies
-  - topics/music
-  - topics/gaming
-  - topics/tech-news
-  - topics/blockchain
-  - topics/fitness
-  - topics/art
-  - topics/sports
+  - jobs/worklog
+  - Social/introductions
+  - Social/general
+  - Social/personal-finance
+  - Social/rage-room
+  - Social/food
+  - Social/pets
+  - Social/sofa-studies
+  - Social/music
+  - Social/battlestations
+  - Social/sports
+  - Social/blockchain
+  - Hobbies/fitness
+  - Hobbies/gaming
+  - Hobbies/art
+  - Hobbies/coffee
+  - News/current-affairs
+  - News/tech-news
   - nordevcon/nordevcon
   - nordevcon/track-1
   - nordevcon/track-2
@@ -45,4 +48,3 @@ channels:
   - 🔊 Voice Channels/gaming
   - 🔊 Voice Channels/gaming-two
   - 🔊 Voice Channels/events
-  - archive/sevices
